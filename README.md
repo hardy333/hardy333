@@ -6,6 +6,17 @@
 
 #
 
+<h3>🧠 Things I am interested in </h3>
+- 🌐 Blockchain.
+- 🧮 Math and Physics.
+- 🖼️ Generative Art. 
+- 💡 Algorithms And Data Structures.
+- 🏓 Game Development, Three.js, Phaser.js.
+- ⌨️ Building Interactive Applications.
+
+
+#
+
 <h3>😇 About me</h3>
 
 My first interaction with programming was at university, where I learned c++. Fast forward to the current
