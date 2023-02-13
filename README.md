@@ -4,8 +4,14 @@
         </samp>
 </h3>
 
+<h6>About me</h6>
+
+My first interaction with programming was at university, where I learned c++. Fast forward to the current
+time and now I am a frontend web developer with almost 2 years of working experience. I am capable of creating pixel perfect, mobile
+first - fully responsive websites, with SEO optimization and accessibility in mind. I specialize in the javascript ecosystem and have
+experience with working almost all the major js frameworks such as React, Angular, Vue and Svelte. I help companies to create fully
+featured, interactive web applications.
 
 
 
-
-## ⚡ Languages and Tools ⚡
+##### ⚡ Languages and Tools ⚡
