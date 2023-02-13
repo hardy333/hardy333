@@ -8,12 +8,12 @@
 
 <h3>🧠 Things I am interested in </h3>
 
-        - 🌐 Blockchain.
-        - 🧮 Math and Physics.
-        - 🖼️ Generative Art. 
-        - 💡 Algorithms And Data Structures.
-        - 🏓 Game Development, Three.js, Phaser.js.
-        - ⌨️ Building Interactive Applications.
+- 🌐 Blockchain.
+- 🧮 Math and Physics.
+- 🖼️ Generative Art. 
+- 💡 Algorithms And Data Structures.
+- 🏓 Game Development, Three.js, Phaser.js.
+- ⌨️ Building Interactive Applications.
 
 
 #
