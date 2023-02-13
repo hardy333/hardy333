@@ -4,7 +4,7 @@
         </samp>
 </h3>
 
-<h6>About me</h6>
+<h3>About me</h3>
 
 My first interaction with programming was at university, where I learned c++. Fast forward to the current
 time and now I am a frontend web developer with almost 2 years of working experience. I am capable of creating pixel perfect, mobile
