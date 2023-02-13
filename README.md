@@ -50,7 +50,6 @@ src="https://img.shields.io/badge/twitter-%49B577B5.svg?&style=for-the-badge&log
 
 <br />
 <br />
-<br />
 
 #
 
