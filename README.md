@@ -12,7 +12,6 @@ first - fully responsive websites, with SEO optimization and accessibility in mi
 experience with working almost all the major js frameworks such as React, Angular, Vue and Svelte. I help companies to create fully
 featured, interactive web applications.
 
-
 <h3>Where to find me</h3>
 <p>
 <a href="https://github.com/hardy333" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a><a href="https://www.linkedin.com/in/gsam1/" target="_blank"><img alt="LinkedIn"
@@ -21,7 +20,6 @@ src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&lo
 src="https://img.shields.io/badge/twitter-%49B577B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-<br/>
 
 ### 🧰 Languages and Tools
 
