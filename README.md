@@ -22,7 +22,7 @@ src="https://img.shields.io/badge/facebook-%231DA1F2.svg?&style=for-the-badge&lo
 src="https://img.shields.io/badge/twitter-%49B577B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
----------------------
+<br/>
 
 ### 🧰 Languages and Tools
 
