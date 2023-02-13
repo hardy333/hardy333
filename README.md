@@ -12,6 +12,7 @@ first - fully responsive websites, with SEO optimization and accessibility in mi
 experience with working almost all the major js frameworks such as React, Angular, Vue and Svelte. I help companies to create fully
 featured, interactive web applications.
 
+---------------------
 
 
 ##### ⚡ Languages and Tools ⚡
