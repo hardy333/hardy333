@@ -1,4 +1,8 @@
-###  Hey There!, I am Gela Samsonidze
+<h3 align="center">
+        <samp><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> Hello There!, I am
+                <b><a target="_blank" href="https://www.linkedin.com/in/gigi-beridze-367126214/">Gela Samsonidze</a></b>
+        </samp>
+</h3>
 
 <!--
 **hardy333/hardy333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
