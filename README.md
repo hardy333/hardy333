@@ -21,7 +21,7 @@
 <h3>😇 About me</h3>
 
 My first interaction with programming was at university, where I learned c++. Fast forward to the current
-time and now I am a frontend web developer with almost 2 years of working experience. I am capable of creating pixel perfect, mobile
+time and now I am a full-stack web developer with almost 2 years of working experience. I am capable of creating pixel perfect, mobile
 first - fully responsive websites, with SEO optimization and accessibility in mind. I specialize in the javascript ecosystem and have
 experience with working almost all the major js frameworks such as React, Angular, Vue and Svelte. I help companies to create fully
 featured, interactive web applications.
