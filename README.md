@@ -59,17 +59,6 @@ src="https://img.shields.io/badge/twitter-%49B577B5.svg?&style=for-the-badge&log
 
 
 
-<br />
-<br />
-
-#
-
-### 📊 Stats
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=hardy333&show_icons=true&theme=gruvbox)
-
-
-#
 
 
 
