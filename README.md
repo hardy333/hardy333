@@ -20,11 +20,7 @@
 
 <h3>😇 About me</h3>
 
-My first interaction with programming was at university, where I learned c++. Fast forward to the current
-time and now I am a full-stack web developer with 3+ years of working experience. I am capable of creating pixel perfect, mobile
-first - fully responsive websites, with SEO optimization and accessibility in mind. I specialize in the javascript ecosystem and have
-experience with working almost all the major js frameworks such as React, Angular, Vue and Svelte. I help companies to create fully
-featured, interactive web applications.
+My first interaction with programming was at university, where I learned C++. Fast forward to the present, and now I am a Senior Full-Stack Web Developer with 4+ years of experience. I am capable of creating pixel-perfect, mobile-first, fully responsive websites, with SEO optimization and accessibility in mind. I specialize in the JavaScript ecosystem and have experience working with almost all the major JS frameworks, such as React, Angular, Vue, and Svelte. I help companies build fully-featured, interactive web applications.
 
 #
 
