@@ -20,7 +20,11 @@
 
 <h3>😇 About me</h3>
 
-My first interaction with programming was at university, where I learned C++. Fast forward to the present, and now I am a Senior Full-Stack Web Developer with 6+ years of experience. I am capable of creating pixel-perfect, mobile-first, fully responsive websites, with SEO optimization and accessibility in mind. I specialize in the JavaScript ecosystem and have experience working with almost all the major JS frameworks, such as React, Angular, Vue, and Svelte. I help companies build fully-featured, interactive web applications.
+🚀 Lead Full-Stack Web Developer with 6+ years of experience delivering scalable, high-performance web applications. I build responsive, pixel-perfect, production-ready solutions with strong focus on performance, SEO, and accessibility.
+
+💻 I am an expert in the JavaScript/TypeScript ecosystem, and my experience spans modern frontend frameworks including React, Angular, and Vue, along with Node.js, Express.js, and Nest.js on the backend. I contribute to architectural decisions and follow best practices in fast-paced, agile environments.
+
+🎓 In addition to development, I am a programming mentor and lecturer, helping aspiring developers build strong fundamentals and grow into confident, industry-ready engineers.
 
 #
 
